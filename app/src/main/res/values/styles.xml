@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Costumize your theme here. -->
+        <item name="colorPrimary">@color/pinkrose1</item>
+        <item name="colorPrimaryDark">@color/VB1</item>
+        <item name="colorAccent">@color/peach2</item>
+
+    </style>
+
+    <style name="navigationTheme">
+
+        <!--Color of text and icon when SELECTED -->
+        <item name="colorSecondary">@color/kuning1</item>
+
+        <!-- Background color when SELECTED -->
+        <item name="colorControlHighlight">@color/black</item>
+
+    </style>
+</resources>

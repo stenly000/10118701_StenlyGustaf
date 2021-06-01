@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="PutihTulang">#FFFFCC</color>
+    <color name="Orange1">#FF0000</color>
+    <color name="Orange2">#FF3300</color>
+    <color name="Orange3">#FF6600</color>
+    <color name="KuningOrange">#FF9900</color>
+    <color name="kuning1">#FFCC00</color>
+    <color name="kuning2">#FFFF00</color>
+    <color name="kuning3">#FFCC33</color>
+    <color name="kuning4">#FFFF33</color>
+    <color name="cream1">#FFCC66</color>
+    <color name="cream2">#FFFF66</color>
+    <color name="cream3">#FFFF99</color>
+    <color name="cream4">#FFCC99</color>
+    <color name="peach1">#FF6633</color>
+    <color name="peach2">#FF9933</color>
+    <color name="peach3">#FF6666</color>
+    <color name="peach4">#FF6699</color>
+    <color name="peach5">#FF9999</color>
+    <color name="pinkrose1">#FF0033</color>
+    <color name="pinkrose2">#FF3333</color>
+    <color name="pinkrose3">#FF0066</color>
+    <color name="pinkrose4">#FF3366</color>
+    <color name="lilac1">#FF0099</color>
+    <color name="lilac2">#FF00CC</color>
+    <color name="lilac3">#FF00FF</color>
+    <color name="lilac4">#FF3366</color>
+    <color name="lilac5">#FF3399</color>
+    <color name="lilac6">#FF33CC</color>
+    <color name="lilac7">#FF33FF</color>
+    <color name="lilac8">#FF66CC</color>
+    <color name="lilac9">#FF99CC</color>
+    <color name="lilac10">#FF99FF</color>
+    <color name="Tosca1">#33FF99</color>
+    <color name="Tosca2">#33FFCC</color>
+    <color name="Tosca3">#66FF99</color>
+    <color name="Tosca4">#66FFCC</color>
+    <color name="bluesky1">#0099FF</color>
+    <color name="bluesky2">#3399CC</color>
+    <color name="bluesky3">#0099CC</color>
+    <color name="bluesky4">#3399FF</color>
+    <color name="bluesky5">#0066FF</color>
+    <color name="bluesky6">#3366FF</color>
+    <color name="violet1">#990099</color>
+    <color name="violet2">#9900CC</color>
+    <color name="violet3">#9900FF</color>
+    <color name="violet4">#993399</color>
+    <color name="violet5">#9933CC</color>
+    <color name="violet6">#9933FF</color>
+    <color name="birulaut1">#3300CC</color>
+    <color name="birulaut2">#3300FF</color>
+    <color name="birulaut3">#3333CC</color>
+    <color name="birulat4">#3333FF</color>
+    <color name="VB1">#6600CC</color>
+    <color name="VB2">#6600FF</color>
+    <color name="VB3">#6633CC</color>
+    <color name="VB4">#6633FF</color>
+
+    <!--   Dashboard Colors   -->
+        <!--   Body and background Colors -->
+    <color name="home_background">#f2f5f8</color>
+    <color name="banner_background">#f1e9ce</color>
+    <color name="home_background_light">#f2f5f8</color>
+
+    <!--  Card Colors  -->
+    <color name="card1">#d4cbe5</color>
+    <color name="card2">#7adccf</color>
+    <color name="card3">#f7c59f</color>
+    <color name="card4">#b8d7f5</color>
+
+
+</resources>
